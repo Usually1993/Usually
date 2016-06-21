@@ -1,0 +1,5 @@
+1. git add "xxxxxx" a.txt
+2. git commit -m "xxxxx" a.txt
+3. ssh-keygen -t rsa -C "1157725022@qq.com"
+4. git remote add origin git@github.com:Usually1993/Usually.git
+5. git push -u origin master
